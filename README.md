@@ -123,7 +123,7 @@
         - যখন কোনো Document Save করা হয়, তখন এটি Hard Drive সংরক্ষিত হয়।
     2. **Output Stage**
         
-        Processing শেষ হলে ফলাফল ব্যবহারকারীর কাছে পৌঁছে দেওয়া হয়। এটি Output Device এর মাধ্যমে ঘটে। যেমন**:**
+        Processing শেষ হলে ফলাফল ব্যবহারকারীর কাছে পৌঁছে দেওয়া হয়। এটি Output Device এর মাধ্যমে ঘটে। যেমন:
         
         - **Monitor** ⇒ Data বা তথ্য Screen এ দেখায়।
         - **Printer** ⇒ Document Print করে।
